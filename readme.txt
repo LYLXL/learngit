@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-in master modified
-=======
-in feature1
->>>>>>> feature1
+一二三四五六
