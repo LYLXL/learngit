@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-master11
-=======
-feature1
->>>>>>> feature1
+in feature1
